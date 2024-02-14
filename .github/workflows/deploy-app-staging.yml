@@ -1,4 +1,4 @@
-name: Build frontend and deploy to Azure Static Web Apps (red-island-0499F7910)
+name: Build frontend and deploy to Azure Static Web Apps (red-island-0499f7910)
 
 on:
   push:
