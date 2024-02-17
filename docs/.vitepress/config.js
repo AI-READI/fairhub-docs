@@ -4,7 +4,7 @@ import { withMermaid } from 'vitepress-plugin-mermaid';
 export default withMermaid(
   defineConfig({
     lang: 'en-US',
-    title: 'CDS Documentation',
+    title: 'FAIRhub Documentation',
     description: 'Documentation for the FAIRhub platform',
     titleTemplate: 'FAIRhub',
     port: 3000,
@@ -96,18 +96,18 @@ export default withMermaid(
 
       nav: [
         {
-          text: 'Study Management Platform',
+          text: 'FAIRhub Portal',
           link: '/docs/intro.md',
         },
         {
-          text: 'FAIRhub Portal',
-          link: '/portal/intro.md',
+          text: 'Study Management Platform',
+          link: '/app/intro.md',
         },
       ],
 
       sidebar: {
-        '/docs': appSidebarGuide(),
-        '/portal': portalSidebarGuide(),
+        '/app': appSidebarGuide(),
+        '/docs': portalSidebarGuide(),
       },
 
       footer: {

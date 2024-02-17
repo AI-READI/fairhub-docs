@@ -4,6 +4,11 @@ layout: home
 title: FAIRhub Documentation
 titleTemplate: FAIRhub Documentation
 
+head:
+  - - meta
+    - name: og:image
+      content: https://kalai.fairdataihub.org/api/generate?title=FAIRhub%20Documentation&description=&app=fairhub&org=ai-readi
+
 hero:
   name: FAIRhub Documentation
   text: ''

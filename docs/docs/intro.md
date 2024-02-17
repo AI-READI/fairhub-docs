@@ -1,9 +1,13 @@
 ---
 lang: en-US
-title: What is FAIRhub?
-description: What is FAIRhub?
+title: Introduction to the FAIRhub Portal
+description: Introduction to the FAIRhub Portal
+head:
+  - - meta
+    - name: og:image
+      content: https://kalai.fairdataihub.org/api/generate?title=Introduction%20to%20the%20FAIRhub%20Portal&description=&app=fairhub-docs&org=ai-readi
 ---
 
-# What is FAIRhub?
+# Introduction to the FAIRhub Portal
 
-The FAIRhub Study Management Platform is a web-based platform that allows researchers to manage their studies and data.
+The FAIRhub Portal is the public platform for finding and downloading AI-ready datasets.
