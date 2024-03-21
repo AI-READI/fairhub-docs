@@ -9,7 +9,7 @@ hero:
   text: ''
   tagline: Documentation for the FAIRhub platform.
   image:
-    src: https://github.com/AI-READI/AI-READI-logo/blob/main/logo/png/option2.png?raw=true
+    src: /public/l.svg
     alt: Vitest
   actions:
     - theme: brand
