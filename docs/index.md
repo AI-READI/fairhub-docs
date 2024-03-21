@@ -9,7 +9,7 @@ hero:
   text: ''
   tagline: Documentation for the FAIRhub platform.
   image:
-    src: /public/landing.svg
+    src: /landing.svg
     alt: Vitest
   actions:
     - theme: brand
