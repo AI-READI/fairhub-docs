@@ -8,12 +8,12 @@
   --vp-button-brand-hover-border:#0284c7;
   --vp-button-brand-hover-bg:#0284c7;
  --vp-home-hero-name-color: transparent;
- --vp-home-hero-name-background: linear-gradient(to top left, #60a5fa, #4fd1c5, #facc15);
+ --vp-home-hero-name-background: linear-gradient(to top left, #3b82f6, #0ea5e9, #f59e0b);
 
  --vp-button-brand-border: var(--vp-c-sky-dark);
  --vp-button-brand-bg: var(--vp-c-sky-dark);
-  --vp-home-hero-image-background-image: linear-gradient(to top left, #60a5fa, #4fd1c5, #facc15);
---vp-home-hero-image-filter: blur(72px);
+  --vp-home-hero-image-background-image: linear-gradient(to top left, #3b82f6, #0ea5e9, #facc15);
+--vp-home-hero-image-filter: blur(70px);
 
 }
 
@@ -26,6 +26,12 @@
 
 .dark .outline-link.active {
   color: var(--vp-c-brand-light) !important;
+}
+
+.dark{
+   --vp-home-hero-name-background: linear-gradient(to top left,#60a5fa, #4fd1c5, #f59e0b);
+   --vp-home-hero-image-background-image: linear-gradient(to top left, #60a5fa, #4fd1c5, #f59e0b);
+
 }
 
 .VPNavBarSearch {
