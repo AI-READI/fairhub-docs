@@ -5,7 +5,8 @@
   --vp-c-brand-dark: black;
   --vt-c-brand: #1D67B2;
   --vt-c-text-3: #213547;
-  --vp-button-brand-hover-border:#5eead4;
+  --vp-button-brand-hover-border:#1D67B2;
+  --vp-button-brand-hover-bg:#1D67B2;
  --vp-home-hero-name-color: transparent;
  --vp-home-hero-name-background: linear-gradient(to top left, #60a5fa, #4fd1c5, #f6e05e);
 
