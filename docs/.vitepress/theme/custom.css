@@ -15,7 +15,7 @@
 
 }
 
-.outline-link.active, .vp-doc a:hover {
+.outline-link.active, .vp-doc a:hover, .link-text {
   color: var(--vp-c-brand) !important;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .dark .pager-link .title:hover, .dark .pager-link:hover .title,
-.dark .vp-doc a:hover, .dark .edit-link-button, .dark .title, .dark .link-text{
+.dark .vp-doc a:hover, .dark .edit-link-button, .dark .vp-doc h1:hover a , .dark .title, .dark .link-text{
   color: var(--vp-c-brand-light)!important;
 }
 
