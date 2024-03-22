@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/ai-readi/fairhub-docs/compare/v1.0.0...v1.0.1) (2024-03-22)
+
+
+### Bug Fixes
+
+* 🐛 hovering style ([32912a6](https://github.com/ai-readi/fairhub-docs/commit/32912a6363fd43b8d611a4c27b8c7135fcd4f12c))
+* 🐛 hovering style ([6f300bf](https://github.com/ai-readi/fairhub-docs/commit/6f300bfc8eb58fab191db2995443b9685c2dc514))
+
 # 1.0.0 (2024-03-22)
 
 
