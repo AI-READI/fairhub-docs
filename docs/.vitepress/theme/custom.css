@@ -20,6 +20,9 @@
   color: var(--vp-c-brand) !important;
 }
 
+.VPNav{background: transparent!important;}
+
+
 .dark .outline-link.active {
   color: var(--vp-c-brand-light) !important;
 }
