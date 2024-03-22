@@ -31,7 +31,7 @@
 }
 
 .dark .pager-link .title:hover, .dark .pager-link:hover .title,
-.dark .vp-doc a:hover {
+.dark .vp-doc a:hover, .dark .edit-link-button, .dark .title, .dark .link-text{
   color: var(--vp-c-brand-light)!important;
 }
 
