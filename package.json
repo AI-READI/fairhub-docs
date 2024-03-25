@@ -1,6 +1,6 @@
 {
   "name": "fairhub-docs",
-  "version": "1.0.2",
+  "version": "0.0.0",
   "description": "Technical documentation for the FAIRhub",
   "main": "index.js",
   "author": "Fair Data Innovations Hub <info@fairdataihub.org> (https://fairdataihub.org)",
