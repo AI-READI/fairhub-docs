@@ -1,18 +1,22 @@
 :root {
-  --vp-c-brand: #0284c7;
+  --vp-c-brand: #0ea5e9;
   --vp-c-brand-light: #7dd3fc;
   --vp-c-brand-dark: black;
   --vt-c-text-3: #213547;
   --vp-button-brand-hover-border: var(--vp-c-brand);
   --vp-button-brand-hover-bg: var(--vp-c-brand);
  --vp-home-hero-name-color: transparent;
- --vp-home-hero-name-background: linear-gradient(to top left, #3b82f6, #0ea5e9, #f59e0b);
+ --vp-home-hero-name-background: linear-gradient(to top left, #38bdf8 15% , #5eead4 45%, #facc15);
 
  --vp-button-brand-border: var(--vp-c-brand);
  --vp-button-brand-bg: var(--vp-c-brand);
-  --vp-home-hero-image-background-image: linear-gradient(to top left, #3b82f6, #0ea5e9, #f59e0b);
+  --vp-home-hero-image-background-image: linear-gradient(to top left, #38bdf8 25% , #5eead4 50%, #facc15);
 --vp-home-hero-image-filter: blur(70px);
 
+}
+
+.clip{
+  font-weight: 620!important;
 }
 
 .outline-link.active, .vp-doc a:hover, .link-text {
@@ -42,13 +46,6 @@
 
 .VPButton.brand{
   color: white!important;
-}
-
-.dark{
-   color: var(--vp-c-brand-light);
-   --vp-home-hero-name-background: linear-gradient(to top left,#60a5fa, #4fd1c5, #f59e0b);
-   --vp-home-hero-image-background-image: linear-gradient(to top left, #60a5fa, #4fd1c5, #f59e0b);
-
 }
 
 .dark .VPNavBarMenuLink.active, .dark .VPNavBarMenuLink:hover{
